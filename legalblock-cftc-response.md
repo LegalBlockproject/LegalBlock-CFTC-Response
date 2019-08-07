@@ -1,20 +1,19 @@
-LegalBlock Selected Responses to CFTC Request for Input 6351-01-P 
-| * Presented by LegalBlock Ethereum Working Group *  |
+# LegalBlock Selected Responses to CFTC Request for Input 6351-01-P 
+>| * Presented by LegalBlock Ethereum Working Group *  |
 
+*On December 11th, 2018, the CFTC submitted a public "Request for Input" (“RFI”), which among other things, sought public comments and feedback concerning the development and usage of the Ethereum blockchain network (“Ethereum”).*
 
-On December 11th, 2018, the CFTC submitted a public "Request for Input" (“RFI”), which among other things, sought public comments and feedback concerning the development and usage of the Ethereum blockchain network (“Ethereum”).
+*Seeking to provide additional clarity, these selected responses reflect topics of special interest to LegalBlock (“LB”), an online community collaborating to build actionable wisdom over blockchain-based applications and related policy decisions.* 
 
-Seeking to provide additional clarity, these selected responses reflect topics of special interest to LegalBlock (“LB”), an online community collaborating to build actionable wisdom over blockchain-based applications and related policy decisions. 
+*This submission is the result of discussions between members of the LegalBlock Ethereum Working Group (“LB-ETH”) and the Ethereum development community, primarily aimed at adding clarity to perceived challenges over the network’s popular use as a permissionless crowdfunding tool (as seen through “Initial Coin Offerings,” or “ICOs”) and its ability to scale to secure meaningful economic activity beyond mere digital token creation and transfers.*
 
-This submission is the result of discussions between members of the LegalBlock Ethereum Working Group (“LB-ETH”) and the Ethereum development community, primarily aimed at adding clarity to perceived challenges over the network’s popular use as a permissionless crowdfunding tool (as seen through “Initial Coin Offerings,” or “ICOs”) and its ability to scale to secure meaningful economic activity beyond mere digital token creation and transfers.
+*In substantial respects, LB-ETH wishes to incorporate the responses of EthHub to the RFI, which are comprehensive to the CFTC’s request and can be found at the following link: https://docs.ethhub.io/other/ethhub-cftc-response/*
 
-In substantial respects, LB-ETH wishes to incorporate the responses of EthHub to the RFI, which are comprehensive to the CFTC’s request and can be found at the following link: https://docs.ethhub.io/other/ethhub-cftc-response/
+*For the convenience of CFTC staff, LB has excerpted topics and questions from the RFI (in bolded text) as they relate to LB-ETH input:*
 
-For the convenience of CFTC staff, LB has excerpted topics and questions from the RFI (in bolded text) as they relate to LB-ETH input:
+## Purpose and Functionality
 
-
-Purpose and Functionality
-3. How is the developer community currently utilizing the Ethereum Network? More specifically, what are prominent use cases or examples that demonstrate the functionalities and capabilities of the Ethereum Network?
+**3. How is the developer community currently utilizing the Ethereum Network? More specifically, what are prominent use cases or examples that demonstrate the functionalities and capabilities of the Ethereum Network?**
 
 More recently, the Ethereum developer community has recognized the growing usage of the network as a system for organizing “Open Finance” applications, which is a notable shift from prior themes touted for Ethereum enabling “unstoppable applications” and its projected goal of becoming the “world computer.” 
 
@@ -22,11 +21,7 @@ Prominently and highlighting this “Open Finance” theme, the Ethereum develop
 
 Further, Ethereum projects aimed at governance applications, such as “decentralized organizations” provided by Aragon.org, are allowing developers to manage pooled resources and make group decisions with transparency ‘on chain’ as well as leverage smart contracts to secure obligations more trustlessly between largely ‘remote-first’ development teams. To hopefully help illustrate such governance applications, LB-ETH (a Working Group formed under LegalBlock) has deployed an instance of an Aragon decentralized organization on the Rinkeby testnet, located at the following url address: https://rinkeby.aragon.org/#/legalblocketh.aragonid.eth/, to among other things, help signal LB-ETH consensus on topics related to Ethereum and to trial internal reputation rewards and other collaborative incentives ‘on chain.’ 
 
-
-
-
-
-5. What data sources, analyses, calculations, variables, or other factors could be used to determine Ether’s market size, liquidity, trade volume, types of traders, ownership concentration, and/or principal ways in which the Ethereum Network is currently being used by market participants?
+**5. What data sources, analyses, calculations, variables, or other factors could be used to determine Ether’s market size, liquidity, trade volume, types of traders, ownership concentration, and/or principal ways in which the Ethereum Network is currently being used by market participants?**
 
 There is more to the size of digital asset markets than mere market capitalization. Better methods for judging their size may be found in studying underlying code development activity and certain market data sets more attuned to digital asset market development. These data sets can be extracted from various blockchain explorer or aggregator services like Blue Swan Grading, Coinmarketcap, Nomics, etc. The various open source project repositories supporting digital asset markets and free APIs from aggregator services can also be used to procure this kind of market ‘snapshot.’
 
@@ -36,11 +31,9 @@ To better determine market size beyond market capitalisation, the number of fork
 
 To gauge ownership concentration over digital assets markets, researchers can analyse wealth distributions by viewing the top ‘wallets’ by digital asset holdings via online sources such as Etherscan or Coin Dance, obtain KYC/AML data from exchanges, as well as track geographical volumes on dedicated timeframes from sources such as Blue Swan Grading.
 
+## Technology
 
-
-
-Technology
-8. Does the Ethereum Network face scalability challenges? If so, please describe such challenges and any potential solutions. What analyses or data sources could be used to assess concerns regarding the scalability of the underlying Ethereum Network, and in particular, concerns about the network’s ability to support the growth and adoption of additional smart contracts?
+**8. Does the Ethereum Network face scalability challenges? If so, please describe such challenges and any potential solutions. What analyses or data sources could be used to assess concerns regarding the scalability of the underlying Ethereum Network, and in particular, concerns about the network’s ability to support the growth and adoption of additional smart contracts?**
 
 Ethereum faces what many have called a 'scalability trilemma' for transaction processing in computer science, wherein blockchain systems are largely forced to choose two out of the following three options: (i) Decentralization (number of block producers), (ii) Scalability (transaction throughput), and (iii) Security (cost to attack network). 
 
@@ -101,8 +94,10 @@ Specifically, Plasma VM proposes reframing authority to move a contract from the
 A related effort aimed at Plasma EVM-support, introduced as “Plasma Leap” by Johann Barbie on ethresear.ch in September 2018 and in active development by LeapDAO, seeks to resolve these issues for “Dapps to leap onto Plasma” by breaking smart contracts into smaller programs called spending conditions and into single state objects with clearly defined owners. 
 
 There are over 100 Plasma-related topics being actively discussed on ethresear.ch, and LearnPlasma.org provides comprehensive summaries of current research and implementations. Further, and for more practical reference, Plasma.Group provides provides resources to launch test plasma chains and transactions. 
-Governance
-13. How is the governance of the Ethereum Network similar to and different from the governance of the Bitcoin network?
+
+## Governance
+
+**13. How is the governance of the Ethereum Network similar to and different from the governance of the Bitcoin network**
 
 Governance in a blockchain context refers specifically to the process of maintaining and updating the software. This includes the protocol modification, deliberation and ultimate decision-making process. Governance processes here not only depend on the architecture of the network (i.e., public/private, permissioned/permissionless), but also on the general purpose of the project and the underlying ideology that motivates network participants.
 
@@ -120,7 +115,7 @@ Generally, governance towards the acceptance of proposals has been through “ro
 
 Ultimately, and similar to Bitcoin, users running nodes and supporting these networks can choose which code to run and updates to follow, serving as a check on core development that is not responsive to stakeholders. Therefore, as these networks grow and upgrades impact more economic activity, finding a healthy balance between introspective and considered development versus the desires of stakeholders will likely remain an ongoing project for Bitcoin and Ethereum governance and a source of competition (e.g., in Bitcoin development, there has been more observed conservatism among stakeholders over upgrades to base blockchain layer, due to network’s primary use as money, whereas Ethereum, which aims to serve a wider range of applications, has observed liberalism and upgrade forks are less contentious).
 
-14. In light of Ether’s origins as an outgrowth from the Ethereum Classic blockchain, are there potential issues that could make Ether’s underlying blockchain vulnerable to future hard forks or splintering?
+**14. In light of Ether’s origins as an outgrowth from the Ethereum Classic blockchain, are there potential issues that could make Ether’s underlying blockchain vulnerable to future hard forks or splintering?**
 
 As stated by EthHub in their CFTC response, “In July of 2016, following the exploit of a vulnerability found in a smart contract called ‘The DAO’ which resulted in substantial loss of Ether to a bad actor, the Ethereum blockchain was hard forked again to include an ‘irregular state transition’ that recovered the stolen Ether and returned it to the initial owners.”  In this case, most of the stakeholders in the Ethereum Network decided to support the blockchain hard fork, and consequently, they upgraded their nodes.  
 
@@ -131,17 +126,19 @@ Cyber Security and Custody
 23. Are there security issues peculiar to the Ethereum Network or Ethereum- supported smart contracts that need to be addressed?
 
 As noted by cryptocurrency and smart contract researcher Philip Daian in a recent presentation titled, “Smart Contract Security - Incentives Beyond The 🚀 or: How I Learned to Start Analyzing and Stop Building Inscrutability,” Ethereum-supported smart contracts need more robust audits and ‘holistic’ security approaches beyond the domain of “launch once and walk away” ICO token smart contracts, as there are observed issues associated with more complex (yet arguably still *basic*) voting and exchange smart contracts, such as the vulnerability to miner frontrunning seen with decentralized exchanges (miner may profit by executing cancelled DEX orders with themselves as counterparty). However, there are promising trends towards more complete smart contract security in Ethereum, as seen in the growing (i) range of static analysis tools, (ii) open-source community of engaged developers, and (iii) sets of formal methods, tools, practices and standards.
-* * * * * *
 
+* * * * * *
 
 Thank you for providing this opportunity to share comments and for your attention to this matter of great significance to financial services and regulated markets around the world. 
 
 We look forward to engaging in future discussions related to Ethereum.
 
-Sincerely,
+*Sincerely*,
 
-Ross Campbell
-Co-Chair | LegalBlock Ethereum Working Group 
+**Ross Campbell**
+
+> *Co-Chair* | LegalBlock Ethereum Working Group 
 DAO | https://rinkeby.aragon.org/#/legalblocketh.aragonid.eth/
-Member | LegalBlock 
+
+> *Member* | **LegalBlock** 
 WEB | https://legalblock.co/ 
