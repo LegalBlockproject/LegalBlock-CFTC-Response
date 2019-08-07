@@ -138,7 +138,9 @@ We look forward to engaging in future discussions related to Ethereum.
 **Ross Campbell**
 
 > *Co-Chair* | LegalBlock Ethereum Working Group 
+
 DAO | https://rinkeby.aragon.org/#/legalblocketh.aragonid.eth/
 
 > *Member* | **LegalBlock** 
+
 WEB | https://legalblock.co/ 
